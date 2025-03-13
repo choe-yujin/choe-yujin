@@ -3,9 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yujin%20Choe&desc=Junior%20Android%20Developer&descSize=13)
   
 <p align="center">
+<img src ="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+</br>
 <img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
-</br>
 <img src="https://img.shields.io/badge/Flutter-%230256C2.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 </br>
